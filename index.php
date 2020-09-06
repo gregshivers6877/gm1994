@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.officeworks.com.au/information/brands/norton");
+header("Location: https://www.officeworks.com.au");
 die();
 ?>
