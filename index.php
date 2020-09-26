@@ -1,4 +1,4 @@
 <?php
-header("Location: http://nortoact.herokuapp.com/");
+header("Location: https://www.officeworks.com.au/information/brands/norton");
 die();
 ?>
